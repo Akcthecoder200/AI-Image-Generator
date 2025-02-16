@@ -46,7 +46,7 @@ VisionCraft is a powerful AI-powered image generation platform that transforms y
 
 1. Clone the repository:
 ```bash
-(https://github.com/neha13singh/VisionCraft_AI_Image_Generator.git)
+(https://github.com/Akcthecoder200/AI-Image-Generator.git)
 cd visioncraft
 ```
 
@@ -125,5 +125,5 @@ visioncraft/
 
 ---
 
-<p align="center">Made with ❤️ by Neha SIngh</p>
+<p align="center">Made with ❤️ by Arvind Kumar</p>
 
