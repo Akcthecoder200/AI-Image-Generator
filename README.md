@@ -1,22 +1,9 @@
 # Image_generator
-# VisionCraft - AI Image Generation Platform 🎨
-
-![VisionCraft Banner](https://github.com/user-attachments/assets/2e2cee54-6285-44fd-b387-292295228a9b)
-
+# AI Image Generation Platform 🎨
 
 ## 🌟 Overview
 
-VisionCraft is a powerful AI-powered image generation platform that transforms your textual descriptions into stunning visual artwork. Built with React.js and Node.js, it leverages OpenAI's DALL-E API to create unique images from user prompts.
-
-[Visit VisionCraft](https://visioncraft-ai-image-generator-client.onrender.com/)
-
-## Demo Screenshot
-
-![Screenshot 1](https://github.com/user-attachments/assets/8fd2873f-ef25-461a-855c-f00609b3f6ce)
-
-![Screenshot 2](https://github.com/user-attachments/assets/0b20ce0e-1346-44f5-a6cd-a7604bcf3602)
-
-
+GenVision is a powerful AI-powered image generation platform that transforms your textual descriptions into stunning visual artwork. Built with React.js and Node.js, it leverages OpenAI's DALL-E API to create unique images from user prompts.
 
 
 ## ✨ Features
